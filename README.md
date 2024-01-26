@@ -3,7 +3,7 @@
 <div id="top"></div>
 <div align="center">
 <a href="https://github.com/rakiiibul/MLECG">
-<img src="img/logo.png" alt="Logo" width="80" height="80"></a>
+<img src="img/logo.png" alt="Logo" width="300" height="60"></a>
 
 <h2 align="center">
 ECG Anomaly detection
