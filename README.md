@@ -1,5 +1,5 @@
 # ML | ECG Anomaly detection
-[![Contributors](https://img.shields.io/github/contributors/rakiiibul/MLECG.svg?style=for-the-badge)](https://github.com/rakiiibul/MLECG/graphs/contributors) [![Forks](https://img.shields.io/github/forks/rakiiibul/MLECG.svg?style=for-the-badge)](https://github.com/rakiiibul/MLECG/network/members) [![Stargazers](https://img.shields.io/github/stars/rakiiibul/MLECG.svg?style=for-the-badge)](https://github.com/rakiiibul/MLECG/stargazers) [![Issues](https://img.shields.io/github/issues/rakiiibul/MLECG.svg?style=for-the-badge)](https://github.com/rakiiibul/MLECG/issues) [![MIT License](https://img.shields.io/github/license/rakiiibul/MLECG.svg?style=for-the-badge)](https://github.com/rakiiibul/MLECG/blob/master/LICENSE)
+
 <div id="top"></div>
 <div align="center">
 <a href="https://github.com/rakiiibul/MLECG">
